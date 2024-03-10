@@ -29,7 +29,7 @@
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Visitas ao Perfil</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JeffersonFQ}/count.svg" /></p> 
 <br>
 </div>
