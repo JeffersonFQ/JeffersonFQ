@@ -33,9 +33,13 @@
 <div align="center">
 <br><p align="centre"><b>Visitas ao Perfil</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JeffersonFQ}/count.svg" /></p> 
-<p align="center"><img align="center" src="!https://komarev.com/ghpvc/?username=your-github-username&color=FCA311&style=for-the-badge" /></p> 
 <br>
 </div>
 
+<div align="center">
+<br><p align="centre"><b>Visitas ao Perfil</b></p>  
+<p align="center"><img align="center" src="!https://komarev.com/ghpvc/?username=your-github-username&color=FCA311&style=for-the-badge" /></p> 
+<br>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FCA311&height=120&section=footer"/>
