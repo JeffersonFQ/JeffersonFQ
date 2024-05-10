@@ -32,7 +32,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitas ao Perfil</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JeffersonFQ}/count.svg" /></p> 
+<p align="center"><img align="center" fill="FCA311" src="https://profile-counter.glitch.me/{JeffersonFQ}/count.svg" /></p> 
 <br>
 </div>
 
