@@ -30,16 +30,12 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitas ao Perfil</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JeffersonFQ}/count.svg" /></p> 
-<br>
-</div>
 
 <div align="center">
 <br><p align="centre" color="FCA311" ><b>Visitas ao Perfil</b></p>  
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=your-github-JeffersonFQ&color=FCA311&style=for-the-badge" /></p> 
 <br>
 </div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FCA311&height=120&section=footer"/>
