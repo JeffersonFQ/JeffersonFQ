@@ -2,8 +2,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JeffersonFQ&bg_color=0d1117&color=FCA311&line=FCA311&point=fdfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jefferson+Freitas;I'm+27+years+old;I'm+from+Brazil;Graduating+in+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Jefferson+Freitas;Eu+Tenho+27+anos;Sou+do+Brasil;Graduando+em+Engenharia+de+Software;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FCA311&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jefferson+Freitas;I'm+27+years+old;I'm+from+Brazil;Graduating+in+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FCA311&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Jefferson+Freitas;Eu+Tenho+27+anos;Sou+do+Brasil;Graduando+em+Engenharia+de+Software;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
