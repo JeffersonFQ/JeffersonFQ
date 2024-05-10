@@ -38,7 +38,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitas ao Perfil</b></p>  
-<p align="center"><img align="center" src="!https://komarev.com/ghpvc/?username=your-github-username&color=FCA311&style=for-the-badge" /></p> 
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=your-github-username&color=FCA311&style=for-the-badge" /></p> 
 <br>
 </div>
 
